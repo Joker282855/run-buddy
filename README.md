@@ -14,8 +14,8 @@ personal trainer of their choice. Each section of the website explains what the 
 * HTML
 * CSS
 
-## Website
-https://lernantino.github.io/run-buddy/
+## Link To Website
+<a href="file:///C:/Users/Joshman/OneDrive/Bootcamp/run-buddy/index.html">Link To Website</a>
 
 ## Contribution
 Made with ❤️ by Josh Jackson
