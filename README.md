@@ -15,7 +15,7 @@ personal trainer of their choice. Each section of the website explains what the 
 * CSS
 
 ## Website Link
-<a href="file:///C:/Users/Joshman/OneDrive/Bootcamp/run-buddy/index.html">Website Link</a>
+file:///C:/Users/Joshman/OneDrive/Bootcamp/run-buddy/index.html
 
 ## Contribution
 Made with ❤️ by Josh Jackson
