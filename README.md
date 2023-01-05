@@ -17,6 +17,9 @@ personal trainer of their choice. Each section of the website explains what the 
 ## Website Link
 <a href="https://joker282855.github.io/run-buddy/">Website Link</a>
 
+## Screenshot of Website
+<imng src="./assets/images/2021-10-06(2).png" alt="Picture Of Website" />
+
 ## Contribution
 Made with ❤️ by Josh Jackson
 
